@@ -73,8 +73,4 @@
 
 Проект соответствует приоритетам государственной политики по развитию квантовых технологий и цифровой экономики России, что делает его стратегически важным для технологического суверенитета страны.
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/8239451/3208c7da-9b25-485e-894d-b93e8bec37fc/Zaiavka_KodII-425919-1.pdf
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/8239451/81f0e0db-76e2-4004-8c09-300fe2804543/Sozdanie_programmnogo_obespecheniia_dlia_analiza_protsessa_peremeshcheniia-Avtosokhranennyi.pptx
-[3] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/8239451/3208c7da-9b25-485e-894d-b93e8bec37fc/Zaiavka_KodII-425919-1.pdf
-[4] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/8239451/81f0e0db-76e2-4004-8c09-300fe2804543/Sozdanie_programmnogo_obespecheniia_dlia_analiza_protsessa_peremeshcheniia-Avtosokhranennyi.pptx
+
